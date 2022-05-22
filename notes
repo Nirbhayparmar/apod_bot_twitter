@@ -1,0 +1,3 @@
+- learn how to save image from apod api (done)
+- then upload the image to twitter to get media id and then add media id to tweet
+- learn how to upload image properly, try building simple uploader client yourself.
